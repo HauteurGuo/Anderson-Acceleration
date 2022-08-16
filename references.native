@@ -1,0 +1,17 @@
+[1] Anderson acceleration of coordinate descent
+https://proceedings.mlr.press/v130/bertrand21a/bertrand21a.pdf
+
+[2] Anderson acceleration of gradient descent.
+https://jaxopt.github.io/stable/auto_examples/fixed_point/plot_anderson_accelerate_gd.html
+
+[3] Anderson Acceleration for Distributed Training of Deep Learning Models
+https://www.osti.gov/servlets/purl/1866678
+
+[4] Stable Anderson Acceleration for Deep Learning
+https://arxiv.org/pdf/2110.14813.pdf
+
+[5] Stochastic Anderson Mixing for Nonconvex Stochastic Optimization
+https://proceedings.neurips.cc/paper/2021/file/c203e4a1bdef9372cb9864bfc9b511cc-Paper.pdf
+
+[6] Nonlinear Acceleration of Stochastic Algorithms
+https://proceedings.neurips.cc/paper/2017/file/fca0789e7891cbc0583298a238316122-Paper.pdf
